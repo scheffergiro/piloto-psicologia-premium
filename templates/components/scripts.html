@@ -1,0 +1,33 @@
+<script>
+(() => {
+ const menu=document.getElementById('menu');
+ const nav=document.getElementById('navlinks');
+ const mobile=window.matchMedia('(max-width: 1080px)');
+ function setMenu(open){
+  menu.setAttribute('aria-expanded',String(open));
+  menu.setAttribute('aria-label',open?'Fechar menu':'Abrir menu');
+  nav.classList.toggle('open',open);
+  nav.hidden=mobile.matches&&!open;
+ }
+ menu.addEventListener('click',()=>setMenu(menu.getAttribute('aria-expanded')!=='true'));
+ nav.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>setMenu(false)));
+ document.addEventListener('keydown',event=>{
+  if(event.key==='Escape'&&nav.classList.contains('open')){setMenu(false);menu.focus()}
+ });
+ mobile.addEventListener('change',()=>setMenu(false));
+ menu.closest('nav').classList.add('menu-ready');
+ menu.hidden=false;
+ setMenu(false);
+ const whatsapp=document.getElementById('whatsapp');
+ const dialog=document.getElementById('whatsapp-demo');
+ if(dialog&&typeof dialog.showModal==='function'&&whatsapp&&!whatsapp.hidden){
+  whatsapp.setAttribute('aria-haspopup','dialog');
+  whatsapp.setAttribute('aria-controls',dialog.id);
+  whatsapp.setAttribute('aria-label','Abrir aviso de contato demonstrativo');
+  whatsapp.addEventListener('click',event=>{
+   event.preventDefault();setMenu(false);dialog.showModal();
+  });
+  dialog.addEventListener('close',()=>whatsapp.focus());
+ }
+})();
+</script>

@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Protótipo — Caderno Contemporâneo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;display=swap">
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    .site-header { background: var(--hero); }
+    .hero { padding: 78px 0 54px; background: var(--hero); }
+    .hero-grid, .about-grid {
+      width: min(100% - 64px, 1240px);
+      margin-inline: auto;
+      display: grid;
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+      column-gap: 22px;
+    }
+    .chapter { grid-column: 1 / 3; padding-top: 11px; }
+    .hero-title {
+      grid-column: 2 / 10;
+      margin: 8px 0 0;
+      font-size: clamp(4.5rem, 7.6vw, 8rem);
+      font-weight: 400;
+      letter-spacing: -.065em;
+      line-height: .87;
+    }
+    .hero-title em {
+      display: block;
+      margin-left: 12.5%;
+      color: var(--olive);
+      font-weight: 400;
+    }
+    .hero-copy {
+      grid-column: 2 / 6;
+      align-self: end;
+      padding: 72px 0 40px;
+    }
+    .lead { max-width: 430px; color: var(--muted); font-size: 1.08rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
+    .button { border-radius: 2px; }
+    .hero-visual { grid-column: 8 / 13; position: relative; margin-top: -10px; }
+    .portrait-placeholder { min-height: 580px; }
+    .portrait-placeholder::after {
+      content: "";
+      position: absolute;
+      inset: 22px -1px -1px 22px;
+      border: 1px solid rgba(255,255,255,.48);
+    }
+    .image-note {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 14px;
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: .75rem;
+      line-height: 1.45;
+    }
+    .image-note b { color: var(--olive-dark); letter-spacing: .08em; }
+    .context {
+      grid-column: 1 / 13;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      margin-top: 50px;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+    .context-item { padding: 18px 22px 18px 0; color: var(--muted); font-size: .82rem; }
+    .context-item + .context-item { border-left: 1px solid var(--line); padding-left: 22px; }
+    .context-item b { display: block; margin-bottom: 6px; color: var(--olive); font-size: .7rem; letter-spacing: .12em; }
+    .about { padding: 118px 0 130px; }
+    .about-heading { grid-column: 1 / 6; }
+    .about-heading h2 {
+      margin: 16px 0 38px;
+      font-size: clamp(3.2rem, 5.5vw, 6rem);
+      font-weight: 400;
+      letter-spacing: -.055em;
+      line-height: .95;
+    }
+    .about-heading h2 em { color: var(--olive); font-weight: 400; }
+    .quote { max-width: 510px; color: var(--olive-dark); font-size: clamp(1.65rem, 2.5vw, 2.55rem); line-height: 1.35; }
+    .about-body { grid-column: 7 / 12; padding-top: 42px; color: var(--muted); font-size: 1.02rem; }
+    .about-body > p + p { margin-top: 18px; }
+    .professional-notes { margin-top: 48px; border-top: 1px solid var(--line); }
+    .professional-item {
+      display: grid;
+      grid-template-columns: 38px 1fr;
+      gap: 16px;
+      padding: 22px 0;
+      border-bottom: 1px solid var(--line);
+      font-size: .9rem;
+    }
+    .professional-item .number { color: var(--olive); font-family: "Playfair Display", serif; font-size: 1.2rem; }
+    @media (max-width: 700px) {
+      .hero { padding: 52px 0 42px; }
+      .hero-grid, .about-grid { width: calc(100% - 28px); grid-template-columns: repeat(4, minmax(0,1fr)); gap: 16px; }
+      .chapter { grid-column: 1 / 5; }
+      .hero-title { grid-column: 1 / 5; margin-top: 24px; font-size: clamp(3.45rem, 18vw, 4.6rem); line-height: .92; }
+      .hero-title em { margin-left: 0; }
+      .hero-copy { grid-column: 1 / 5; padding: 34px 0 12px; }
+      .actions { flex-direction: column; }
+      .hero-visual { grid-column: 1 / 5; margin-top: 20px; }
+      .portrait-placeholder { min-height: 460px; }
+      .context { grid-column: 1 / 5; grid-template-columns: 1fr; margin-top: 34px; }
+      .context-item + .context-item { border-top: 1px solid var(--line); border-left: 0; padding-left: 0; }
+      .about { padding: 76px 0 90px; }
+      .about-heading, .about-body { grid-column: 1 / 5; }
+      .about-heading h2 { font-size: clamp(2.9rem, 15vw, 4rem); }
+      .about-body { padding-top: 42px; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo principal</a>
+  <div class="notice">DEMONSTRAÇÃO COMERCIAL NÃO OFICIAL · ESTUDO VISUAL CADERNO CONTEMPORÂNEO</div>
+  <header class="site-header"><div class="nav"><a class="brand" href="#inicio"><span class="fi-spacing-fix">Nome da Profissional</span><small>Psicóloga · Localidade a confirmar · CRP: XXX</small></a><span class="header-note">Estudo 01 / 03</span></div></header>
+  <main id="conteudo">
+    <section class="hero" id="inicio">
+      <div class="hero-grid">
+        <div class="chapter"><span class="eyebrow">01 / Psicoterapia · Localidade a confirmar</span></div>
+        <h1 class="hero-title">Um espaço para <em>ser, sentir e se descobrir.</em></h1>
+        <div class="hero-copy">
+          <p class="lead">Apresentação do atendimento a personalizar com informações confirmadas.</p>
+          <div class="actions"><a class="button" href="#sobre">Entre em contato ↗</a><a class="button button-secondary" href="#sobre">Sobre Profissional ↓</a></div>
+        </div>
+        <div class="hero-visual">
+          <div class="portrait-placeholder" role="img" aria-label="Área reservada para fotografia profissional de Profissional"><div class="portrait-content"><span class="portrait-initial">NP</span><span class="portrait-label">Espaço reservado para uma fotografia autorizada</span></div></div>
+          <div class="image-note"><b>FIG. 01</b><span>Retrato profissional · imagem pendente de autorização</span></div>
+        </div>
+        <div class="context" aria-label="Informações do atendimento">
+          <div class="context-item"><b>01 / MODALIDADE</b>Modalidades a confirmar</div>
+          <div class="context-item"><b>02 / PÚBLICO</b>Público a confirmar</div>
+          <div class="context-item"><b>03 / ABORDAGEM</b>Abordagem a confirmar</div>
+        </div>
+      </div>
+    </section>
+    <section class="about" id="sobre">
+      <div class="about-grid">
+        <div class="about-heading"><span class="eyebrow">02 / Sobre a profissional</span><h2>Conheça <em><span class="fi-spacing-fix">a profissional</span>.</em></h2><p class="quote">A psicoterapia é um convite para olhar para si com mais presença e curiosidade.</p></div>
+        <div class="about-body"><p>Apresentação profissional a preencher com informações confirmadas.</p><p>Trajetória e forma de trabalho a preencher após validação.</p><div class="professional-notes"><div class="professional-item"><span class="number">01</span><div><strong>Formação em Psicologia</strong><span>Formação a confirmar.</span></div></div><div class="professional-item"><span class="number">02</span><div><strong>Trajetória profissional</strong><span>Trajetória profissional a confirmar.</span></div></div><div class="professional-item"><span class="number">03</span><div><strong>Abordagem terapêutica</strong><span>Resumo da abordagem a confirmar com a profissional.</span></div></div></div></div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

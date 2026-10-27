@@ -1,0 +1,3185 @@
+[
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 280,
+      "height": 973.953125,
+      "bottom": 1076.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 489.875,
+      "width": 280,
+      "height": 162,
+      "bottom": 651.875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 36.796875,
+      "y": 158.09375,
+      "width": 246.390625,
+      "height": 311.78125,
+      "bottom": 469.875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 962.453125,
+      "width": 280,
+      "height": 54,
+      "bottom": 1016.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "14px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 320,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 973.953125,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1076.453125
+      },
+      {
+        "id": "sobre",
+        "height": 944.296875,
+        "top": 1256.953125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1189.984375,
+        "top": 2201.25
+      },
+      {
+        "id": "abordagem",
+        "height": 927.203125,
+        "top": 3391.234375
+      },
+      {
+        "id": "online",
+        "height": 1086.390625,
+        "top": 4318.4375
+      },
+      {
+        "id": "",
+        "height": 367.796875,
+        "top": 5404.828125
+      },
+      {
+        "id": "exterior",
+        "height": 736.40625,
+        "top": 5772.625
+      },
+      {
+        "id": "aflorar",
+        "height": 702.65625,
+        "top": 6509.03125
+      },
+      {
+        "id": "duvidas",
+        "height": 702.390625,
+        "top": 7211.6875
+      },
+      {
+        "id": "contato",
+        "height": 737.75,
+        "top": 7914.078125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      320,
+      740
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 280,
+      "height": 973.953125,
+      "bottom": 1076.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 489.875,
+      "width": 280,
+      "height": 162,
+      "bottom": 651.875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 36.796875,
+      "y": 158.09375,
+      "width": 246.390625,
+      "height": 311.78125,
+      "bottom": 469.875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 962.453125,
+      "width": 280,
+      "height": 54,
+      "bottom": 1016.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "14px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 320,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 973.953125,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1076.453125
+      },
+      {
+        "id": "sobre",
+        "height": 944.296875,
+        "top": 1256.953125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1189.984375,
+        "top": 2201.25
+      },
+      {
+        "id": "abordagem",
+        "height": 927.203125,
+        "top": 3391.234375
+      },
+      {
+        "id": "online",
+        "height": 1086.390625,
+        "top": 4318.4375
+      },
+      {
+        "id": "",
+        "height": 367.796875,
+        "top": 5404.828125
+      },
+      {
+        "id": "exterior",
+        "height": 736.40625,
+        "top": 5772.625
+      },
+      {
+        "id": "recurso",
+        "height": 702.65625,
+        "top": 6509.03125
+      },
+      {
+        "id": "duvidas",
+        "height": 702.390625,
+        "top": 7211.6875
+      },
+      {
+        "id": "contato",
+        "height": 587.75,
+        "top": 7914.078125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      320,
+      740
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 280,
+      "height": 973.953125,
+      "bottom": 1076.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 489.875,
+      "width": 280,
+      "height": 162,
+      "bottom": 651.875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 36.796875,
+      "y": 158.09375,
+      "width": 246.390625,
+      "height": 311.78125,
+      "bottom": 469.875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 962.453125,
+      "width": 280,
+      "height": 54,
+      "bottom": 1016.453125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "14px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 320,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 973.953125,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1076.453125
+      },
+      {
+        "id": "sobre",
+        "height": 944.296875,
+        "top": 1256.953125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1189.984375,
+        "top": 2201.25
+      },
+      {
+        "id": "abordagem",
+        "height": 927.203125,
+        "top": 3391.234375
+      },
+      {
+        "id": "online",
+        "height": 1086.390625,
+        "top": 4318.4375
+      },
+      {
+        "id": "",
+        "height": 367.796875,
+        "top": 5404.828125
+      },
+      {
+        "id": "duvidas",
+        "height": 770.390625,
+        "top": 5772.625
+      },
+      {
+        "id": "contato",
+        "height": 587.75,
+        "top": 6543.015625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      320,
+      740
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 280,
+      "height": 951.328125,
+      "bottom": 1053.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 489.875,
+      "width": 280,
+      "height": 164.125,
+      "bottom": 654,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "38px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 36.796875,
+      "y": 158.09375,
+      "width": 246.390625,
+      "height": 311.78125,
+      "bottom": 469.875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 939.828125,
+      "width": 280,
+      "height": 54,
+      "bottom": 993.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "14px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 320,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 951.328125,
+        "top": 102.5
+      },
+      {
+        "id": "sobre",
+        "height": 401.078125,
+        "top": 1053.828125
+      },
+      {
+        "id": "contato",
+        "height": 587.75,
+        "top": 1454.90625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      320,
+      740
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 350,
+      "height": 1021.671875,
+      "bottom": 1124.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 567.828125,
+      "width": 350,
+      "height": 162,
+      "bottom": 729.828125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 41,
+      "y": 158.09375,
+      "width": 308,
+      "height": 389.734375,
+      "bottom": 547.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 1009.671875,
+      "width": 350,
+      "height": 54.5,
+      "bottom": 1064.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 390,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 1021.671875,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1124.171875
+      },
+      {
+        "id": "sobre",
+        "height": 846.9375,
+        "top": 1304.671875
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1000.03125,
+        "top": 2151.609375
+      },
+      {
+        "id": "abordagem",
+        "height": 793.84375,
+        "top": 3151.640625
+      },
+      {
+        "id": "online",
+        "height": 925.234375,
+        "top": 3945.484375
+      },
+      {
+        "id": "",
+        "height": 327.796875,
+        "top": 4870.71875
+      },
+      {
+        "id": "exterior",
+        "height": 699.484375,
+        "top": 5198.515625
+      },
+      {
+        "id": "aflorar",
+        "height": 596.765625,
+        "top": 5898
+      },
+      {
+        "id": "duvidas",
+        "height": 621.171875,
+        "top": 6494.765625
+      },
+      {
+        "id": "contato",
+        "height": 647.1875,
+        "top": 7115.9375
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      390,
+      844
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 350,
+      "height": 1021.671875,
+      "bottom": 1124.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 567.828125,
+      "width": 350,
+      "height": 162,
+      "bottom": 729.828125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 41,
+      "y": 158.09375,
+      "width": 308,
+      "height": 389.734375,
+      "bottom": 547.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 1009.671875,
+      "width": 350,
+      "height": 54.5,
+      "bottom": 1064.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 390,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 1021.671875,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1124.171875
+      },
+      {
+        "id": "sobre",
+        "height": 846.9375,
+        "top": 1304.671875
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1000.03125,
+        "top": 2151.609375
+      },
+      {
+        "id": "abordagem",
+        "height": 793.84375,
+        "top": 3151.640625
+      },
+      {
+        "id": "online",
+        "height": 925.234375,
+        "top": 3945.484375
+      },
+      {
+        "id": "",
+        "height": 327.796875,
+        "top": 4870.71875
+      },
+      {
+        "id": "exterior",
+        "height": 699.484375,
+        "top": 5198.515625
+      },
+      {
+        "id": "recurso",
+        "height": 596.765625,
+        "top": 5898
+      },
+      {
+        "id": "duvidas",
+        "height": 621.171875,
+        "top": 6494.765625
+      },
+      {
+        "id": "contato",
+        "height": 497.1875,
+        "top": 7115.9375
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      390,
+      844
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 350,
+      "height": 1021.671875,
+      "bottom": 1124.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 567.828125,
+      "width": 350,
+      "height": 162,
+      "bottom": 729.828125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "50px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 41,
+      "y": 158.09375,
+      "width": 308,
+      "height": 389.734375,
+      "bottom": 547.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 1009.671875,
+      "width": 350,
+      "height": 54.5,
+      "bottom": 1064.171875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 390,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 1021.671875,
+        "top": 102.5
+      },
+      {
+        "id": "",
+        "height": 180.5,
+        "top": 1124.171875
+      },
+      {
+        "id": "sobre",
+        "height": 846.9375,
+        "top": 1304.671875
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 1000.03125,
+        "top": 2151.609375
+      },
+      {
+        "id": "abordagem",
+        "height": 793.84375,
+        "top": 3151.640625
+      },
+      {
+        "id": "online",
+        "height": 925.234375,
+        "top": 3945.484375
+      },
+      {
+        "id": "",
+        "height": 327.796875,
+        "top": 4870.71875
+      },
+      {
+        "id": "duvidas",
+        "height": 689.171875,
+        "top": 5198.515625
+      },
+      {
+        "id": "contato",
+        "height": 497.1875,
+        "top": 5887.6875
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      390,
+      844
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 20,
+      "y": 102.5,
+      "width": 350,
+      "height": 999.046875,
+      "bottom": 1101.546875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 20,
+      "y": 567.828125,
+      "width": 350,
+      "height": 164.125,
+      "bottom": 731.953125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "38px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 41,
+      "y": 158.09375,
+      "width": 308,
+      "height": 389.734375,
+      "bottom": 547.828125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 20,
+      "y": 987.046875,
+      "width": 350,
+      "height": 54.5,
+      "bottom": 1041.546875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 25.5,
+      "width": 390,
+      "height": 77,
+      "bottom": 102.5,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 999.046875,
+        "top": 102.5
+      },
+      {
+        "id": "sobre",
+        "height": 331.125,
+        "top": 1101.546875
+      },
+      {
+        "id": "contato",
+        "height": 497.1875,
+        "top": 1432.671875
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      390,
+      844
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 32,
+      "y": 110.25,
+      "width": 704,
+      "height": 715.390625,
+      "bottom": 825.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 32,
+      "y": 163.84375,
+      "width": 322.8125,
+      "height": 186.5625,
+      "bottom": 350.40625,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "57.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 397.046875,
+      "y": 246.5,
+      "width": 338.9375,
+      "height": 428.875,
+      "bottom": 675.375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 32,
+      "y": 703.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 758.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 768,
+      "height": 83,
+      "bottom": 110.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 715.390625,
+        "top": 110.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 825.640625
+      },
+      {
+        "id": "sobre",
+        "height": 810.125,
+        "top": 921.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 879.03125,
+        "top": 1731.765625
+      },
+      {
+        "id": "abordagem",
+        "height": 680.75,
+        "top": 2610.796875
+      },
+      {
+        "id": "online",
+        "height": 740.4375,
+        "top": 3291.546875
+      },
+      {
+        "id": "",
+        "height": 340.296875,
+        "top": 4031.984375
+      },
+      {
+        "id": "exterior",
+        "height": 655.34375,
+        "top": 4372.28125
+      },
+      {
+        "id": "aflorar",
+        "height": 501.75,
+        "top": 5027.625
+      },
+      {
+        "id": "duvidas",
+        "height": 429.75,
+        "top": 5529.375
+      },
+      {
+        "id": "contato",
+        "height": 523.75,
+        "top": 5959.125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      768,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 32,
+      "y": 110.25,
+      "width": 704,
+      "height": 715.390625,
+      "bottom": 825.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 32,
+      "y": 163.84375,
+      "width": 322.8125,
+      "height": 186.5625,
+      "bottom": 350.40625,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "57.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 397.046875,
+      "y": 246.5,
+      "width": 338.9375,
+      "height": 428.875,
+      "bottom": 675.375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 32,
+      "y": 703.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 758.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 768,
+      "height": 83,
+      "bottom": 110.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 715.390625,
+        "top": 110.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 825.640625
+      },
+      {
+        "id": "sobre",
+        "height": 810.125,
+        "top": 921.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 879.03125,
+        "top": 1731.765625
+      },
+      {
+        "id": "abordagem",
+        "height": 680.75,
+        "top": 2610.796875
+      },
+      {
+        "id": "online",
+        "height": 740.4375,
+        "top": 3291.546875
+      },
+      {
+        "id": "",
+        "height": 340.296875,
+        "top": 4031.984375
+      },
+      {
+        "id": "exterior",
+        "height": 655.34375,
+        "top": 4372.28125
+      },
+      {
+        "id": "recurso",
+        "height": 501.75,
+        "top": 5027.625
+      },
+      {
+        "id": "duvidas",
+        "height": 429.75,
+        "top": 5529.375
+      },
+      {
+        "id": "contato",
+        "height": 385.984375,
+        "top": 5959.125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      768,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 32,
+      "y": 110.25,
+      "width": 704,
+      "height": 715.390625,
+      "bottom": 825.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 32,
+      "y": 163.84375,
+      "width": 322.8125,
+      "height": 186.5625,
+      "bottom": 350.40625,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "57.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 397.046875,
+      "y": 246.5,
+      "width": 338.9375,
+      "height": 428.875,
+      "bottom": 675.375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 32,
+      "y": 703.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 758.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 768,
+      "height": 83,
+      "bottom": 110.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 715.390625,
+        "top": 110.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 825.640625
+      },
+      {
+        "id": "sobre",
+        "height": 810.125,
+        "top": 921.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 879.03125,
+        "top": 1731.765625
+      },
+      {
+        "id": "abordagem",
+        "height": 680.75,
+        "top": 2610.796875
+      },
+      {
+        "id": "online",
+        "height": 740.4375,
+        "top": 3291.546875
+      },
+      {
+        "id": "",
+        "height": 340.296875,
+        "top": 4031.984375
+      },
+      {
+        "id": "duvidas",
+        "height": 497.75,
+        "top": 4372.28125
+      },
+      {
+        "id": "contato",
+        "height": 385.984375,
+        "top": 4870.03125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      768,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 32,
+      "y": 110.25,
+      "width": 704,
+      "height": 692.5,
+      "bottom": 802.75,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 32,
+      "y": 163.84375,
+      "width": 322.8125,
+      "height": 190.0625,
+      "bottom": 353.90625,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "44px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 397.046875,
+      "y": 235.0625,
+      "width": 338.9375,
+      "height": 428.875,
+      "bottom": 663.9375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 32,
+      "y": 680.75,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 735.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 768,
+      "height": 83,
+      "bottom": 110.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 692.5,
+        "top": 110.25
+      },
+      {
+        "id": "sobre",
+        "height": 388.96875,
+        "top": 802.75
+      },
+      {
+        "id": "contato",
+        "height": 385.984375,
+        "top": 1191.71875
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      768,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 93,
+      "y": 116.25,
+      "width": 1180,
+      "height": 707.03125,
+      "bottom": 823.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 93,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 233.859375,
+      "bottom": 403.703125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "72.192px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 802.046875,
+      "y": 164.796875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 760.734375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 93,
+      "y": 701.28125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 755.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1366,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 707.03125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 823.28125
+      },
+      {
+        "id": "sobre",
+        "height": 905.796875,
+        "top": 919.28125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 976.609375,
+        "top": 1825.078125
+      },
+      {
+        "id": "abordagem",
+        "height": 744.0625,
+        "top": 2801.6875
+      },
+      {
+        "id": "online",
+        "height": 645.921875,
+        "top": 3545.75
+      },
+      {
+        "id": "",
+        "height": 284.234375,
+        "top": 4191.671875
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4475.90625
+      },
+      {
+        "id": "aflorar",
+        "height": 494.125,
+        "top": 5024.875
+      },
+      {
+        "id": "duvidas",
+        "height": 446.9375,
+        "top": 5519
+      },
+      {
+        "id": "contato",
+        "height": 533.046875,
+        "top": 5965.9375
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      1366,
+      768
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 93,
+      "y": 116.25,
+      "width": 1180,
+      "height": 707.03125,
+      "bottom": 823.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 93,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 233.859375,
+      "bottom": 403.703125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "72.192px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 802.046875,
+      "y": 164.796875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 760.734375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 93,
+      "y": 701.28125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 755.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1366,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 707.03125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 823.28125
+      },
+      {
+        "id": "sobre",
+        "height": 905.796875,
+        "top": 919.28125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 976.609375,
+        "top": 1825.078125
+      },
+      {
+        "id": "abordagem",
+        "height": 744.0625,
+        "top": 2801.6875
+      },
+      {
+        "id": "online",
+        "height": 645.921875,
+        "top": 3545.75
+      },
+      {
+        "id": "",
+        "height": 284.234375,
+        "top": 4191.671875
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4475.90625
+      },
+      {
+        "id": "recurso",
+        "height": 494.125,
+        "top": 5024.875
+      },
+      {
+        "id": "duvidas",
+        "height": 446.9375,
+        "top": 5519
+      },
+      {
+        "id": "contato",
+        "height": 507,
+        "top": 5965.9375
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      1366,
+      768
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 93,
+      "y": 116.25,
+      "width": 1180,
+      "height": 707.03125,
+      "bottom": 823.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 93,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 233.859375,
+      "bottom": 403.703125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "72.192px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 802.046875,
+      "y": 164.796875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 760.734375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 93,
+      "y": 701.28125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 755.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1366,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 707.03125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 823.28125
+      },
+      {
+        "id": "sobre",
+        "height": 905.796875,
+        "top": 919.28125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 976.609375,
+        "top": 1825.078125
+      },
+      {
+        "id": "abordagem",
+        "height": 744.0625,
+        "top": 2801.6875
+      },
+      {
+        "id": "online",
+        "height": 645.921875,
+        "top": 3545.75
+      },
+      {
+        "id": "",
+        "height": 284.234375,
+        "top": 4191.671875
+      },
+      {
+        "id": "duvidas",
+        "height": 561.875,
+        "top": 4475.90625
+      },
+      {
+        "id": "contato",
+        "height": 507,
+        "top": 5037.78125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      1366,
+      768
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 93,
+      "y": 116.25,
+      "width": 1180,
+      "height": 712.15625,
+      "bottom": 828.40625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 93,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 265.375,
+      "bottom": 435.21875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "61.44px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 802.046875,
+      "y": 167.359375,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 763.296875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 93,
+      "y": 706.40625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 760.90625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1366,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 712.15625,
+        "top": 116.25
+      },
+      {
+        "id": "sobre",
+        "height": 493.796875,
+        "top": 828.40625
+      },
+      {
+        "id": "contato",
+        "height": 507,
+        "top": 1322.203125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      1366,
+      768
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 130,
+      "y": 116.25,
+      "width": 1180,
+      "height": 750.53125,
+      "bottom": 866.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 130,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 274.078125,
+      "bottom": 443.921875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "84.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 839.046875,
+      "y": 186.546875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 782.484375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 130,
+      "y": 744.78125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 799.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1440,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 750.53125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 866.78125
+      },
+      {
+        "id": "sobre",
+        "height": 922.546875,
+        "top": 962.78125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 997.140625,
+        "top": 1885.328125
+      },
+      {
+        "id": "abordagem",
+        "height": 755.5625,
+        "top": 2882.46875
+      },
+      {
+        "id": "online",
+        "height": 659.421875,
+        "top": 3638.03125
+      },
+      {
+        "id": "",
+        "height": 289.296875,
+        "top": 4297.453125
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4586.75
+      },
+      {
+        "id": "aflorar",
+        "height": 495.578125,
+        "top": 5135.71875
+      },
+      {
+        "id": "duvidas",
+        "height": 452,
+        "top": 5631.296875
+      },
+      {
+        "id": "contato",
+        "height": 599.984375,
+        "top": 6083.296875
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      1440,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 130,
+      "y": 116.25,
+      "width": 1180,
+      "height": 750.53125,
+      "bottom": 866.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 130,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 274.078125,
+      "bottom": 443.921875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "84.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 839.046875,
+      "y": 186.546875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 782.484375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 130,
+      "y": 744.78125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 799.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1440,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 750.53125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 866.78125
+      },
+      {
+        "id": "sobre",
+        "height": 922.546875,
+        "top": 962.78125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 997.140625,
+        "top": 1885.328125
+      },
+      {
+        "id": "abordagem",
+        "height": 755.5625,
+        "top": 2882.46875
+      },
+      {
+        "id": "online",
+        "height": 659.421875,
+        "top": 3638.03125
+      },
+      {
+        "id": "",
+        "height": 289.296875,
+        "top": 4297.453125
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4586.75
+      },
+      {
+        "id": "recurso",
+        "height": 495.578125,
+        "top": 5135.71875
+      },
+      {
+        "id": "duvidas",
+        "height": 452,
+        "top": 5631.296875
+      },
+      {
+        "id": "contato",
+        "height": 599.984375,
+        "top": 6083.296875
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      1440,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 130,
+      "y": 116.25,
+      "width": 1180,
+      "height": 750.53125,
+      "bottom": 866.78125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 130,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 274.078125,
+      "bottom": 443.921875,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "84.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 839.046875,
+      "y": 186.546875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 782.484375,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 130,
+      "y": 744.78125,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 799.28125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1440,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 750.53125,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 866.78125
+      },
+      {
+        "id": "sobre",
+        "height": 922.546875,
+        "top": 962.78125
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 997.140625,
+        "top": 1885.328125
+      },
+      {
+        "id": "abordagem",
+        "height": 755.5625,
+        "top": 2882.46875
+      },
+      {
+        "id": "online",
+        "height": 659.421875,
+        "top": 3638.03125
+      },
+      {
+        "id": "",
+        "height": 289.296875,
+        "top": 4297.453125
+      },
+      {
+        "id": "duvidas",
+        "height": 572,
+        "top": 4586.75
+      },
+      {
+        "id": "contato",
+        "height": 599.984375,
+        "top": 5158.75
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      1440,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 130,
+      "y": 116.25,
+      "width": 1180,
+      "height": 743.8125,
+      "bottom": 860.0625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 130,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 293.75,
+      "bottom": 463.59375,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "68px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 839.046875,
+      "y": 183.1875,
+      "width": 470.953125,
+      "height": 595.9375,
+      "bottom": 779.125,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 130,
+      "y": 738.0625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 792.5625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1440,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 743.8125,
+        "top": 116.25
+      },
+      {
+        "id": "sobre",
+        "height": 509.578125,
+        "top": 860.0625
+      },
+      {
+        "id": "contato",
+        "height": 599.984375,
+        "top": 1369.640625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      1440,
+      900
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 50,
+      "y": 116.25,
+      "width": 1180,
+      "height": 687.390625,
+      "bottom": 803.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 50,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 219.28125,
+      "bottom": 389.125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "67.68px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 797.015625,
+      "y": 179,
+      "width": 432.984375,
+      "height": 547.890625,
+      "bottom": 726.890625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 50,
+      "y": 681.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 736.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1280,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 687.390625,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 803.640625
+      },
+      {
+        "id": "sobre",
+        "height": 878.234375,
+        "top": 899.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 883.234375,
+        "top": 1777.875
+      },
+      {
+        "id": "abordagem",
+        "height": 725.15625,
+        "top": 2661.109375
+      },
+      {
+        "id": "online",
+        "height": 621.890625,
+        "top": 3386.265625
+      },
+      {
+        "id": "",
+        "height": 277.796875,
+        "top": 4008.15625
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4285.953125
+      },
+      {
+        "id": "aflorar",
+        "height": 480.53125,
+        "top": 4834.921875
+      },
+      {
+        "id": "duvidas",
+        "height": 439.1875,
+        "top": 5315.453125
+      },
+      {
+        "id": "contato",
+        "height": 517.546875,
+        "top": 5754.640625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "reference",
+    "viewport": [
+      1280,
+      720
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 50,
+      "y": 116.25,
+      "width": 1180,
+      "height": 687.390625,
+      "bottom": 803.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 50,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 219.28125,
+      "bottom": 389.125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "67.68px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 797.015625,
+      "y": 179,
+      "width": 432.984375,
+      "height": 547.890625,
+      "bottom": 726.890625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 50,
+      "y": 681.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 736.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1280,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 687.390625,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 803.640625
+      },
+      {
+        "id": "sobre",
+        "height": 878.234375,
+        "top": 899.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 883.234375,
+        "top": 1777.875
+      },
+      {
+        "id": "abordagem",
+        "height": 725.15625,
+        "top": 2661.109375
+      },
+      {
+        "id": "online",
+        "height": 621.890625,
+        "top": 3386.265625
+      },
+      {
+        "id": "",
+        "height": 277.796875,
+        "top": 4008.15625
+      },
+      {
+        "id": "exterior",
+        "height": 548.96875,
+        "top": 4285.953125
+      },
+      {
+        "id": "recurso",
+        "height": 480.53125,
+        "top": 4834.921875
+      },
+      {
+        "id": "duvidas",
+        "height": 439.1875,
+        "top": 5315.453125
+      },
+      {
+        "id": "contato",
+        "height": 477.90625,
+        "top": 5754.640625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "equivalent",
+    "viewport": [
+      1280,
+      720
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 50,
+      "y": 116.25,
+      "width": 1180,
+      "height": 687.390625,
+      "bottom": 803.640625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 50,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 219.28125,
+      "bottom": 389.125,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "67.68px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 797.015625,
+      "y": 179,
+      "width": 432.984375,
+      "height": 547.890625,
+      "bottom": 726.890625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 50,
+      "y": 681.640625,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 736.140625,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1280,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 687.390625,
+        "top": 116.25
+      },
+      {
+        "id": "",
+        "height": 96,
+        "top": 803.640625
+      },
+      {
+        "id": "sobre",
+        "height": 878.234375,
+        "top": 899.640625
+      },
+      {
+        "id": "como-posso-ajudar",
+        "height": 883.234375,
+        "top": 1777.875
+      },
+      {
+        "id": "abordagem",
+        "height": 725.15625,
+        "top": 2661.109375
+      },
+      {
+        "id": "online",
+        "height": 621.890625,
+        "top": 3386.265625
+      },
+      {
+        "id": "",
+        "height": 277.796875,
+        "top": 4008.15625
+      },
+      {
+        "id": "duvidas",
+        "height": 546.375,
+        "top": 4285.953125
+      },
+      {
+        "id": "contato",
+        "height": 477.90625,
+        "top": 4832.328125
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "default",
+    "viewport": [
+      1280,
+      720
+    ],
+    "errors": []
+  },
+  {
+    "hero": {
+      "x": 50,
+      "y": 116.25,
+      "width": 1180,
+      "height": 690.46875,
+      "bottom": 806.71875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(247, 244, 238)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "name": {
+      "x": 50,
+      "y": 169.84375,
+      "width": 529.5625,
+      "height": 248.75,
+      "bottom": 418.59375,
+      "font": "\"Playfair Display\", Georgia, serif",
+      "fontSize": "57.6px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "portrait": {
+      "x": 797.015625,
+      "y": 180.53125,
+      "width": 432.984375,
+      "height": 547.890625,
+      "bottom": 728.421875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgb(222, 213, 194)",
+      "border": "0px none rgb(48, 59, 43)",
+      "borderRadius": "10px",
+      "shadow": "rgba(48, 59, 43, 0.1) 0px 8px 24px 0px, rgba(48, 59, 43, 0.04) 0px 2px 5px 0px"
+    },
+    "cta": {
+      "x": 50,
+      "y": 684.71875,
+      "width": 290.265625,
+      "height": 54.5,
+      "bottom": 739.21875,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "15px",
+      "color": "rgb(252, 250, 245)",
+      "background": "rgb(57, 75, 50)",
+      "border": "1px solid rgb(57, 75, 50)",
+      "borderRadius": "7px",
+      "shadow": "rgba(48, 59, 43, 0.12) 0px 3px 8px 0px"
+    },
+    "header": {
+      "x": 0,
+      "y": 27.25,
+      "width": 1280,
+      "height": 89,
+      "bottom": 116.25,
+      "font": "\"DM Sans\", Arial, sans-serif",
+      "fontSize": "17px",
+      "color": "rgb(48, 59, 43)",
+      "background": "rgba(252, 250, 245, 0.97)",
+      "border": "",
+      "borderRadius": "0px",
+      "shadow": "none"
+    },
+    "sections": [
+      {
+        "id": "inicio",
+        "height": 690.46875,
+        "top": 116.25
+      },
+      {
+        "id": "sobre",
+        "height": 471.421875,
+        "top": 806.71875
+      },
+      {
+        "id": "contato",
+        "height": 477.90625,
+        "top": 1278.140625
+      }
+    ],
+    "overflow": false,
+    "fonts": true,
+    "orphans": [],
+    "broken": [],
+    "profile": "second",
+    "viewport": [
+      1280,
+      720
+    ],
+    "errors": []
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      320,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "second",
+    "viewport": [
+      320,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "equivalent",
+    "viewport": [
+      320,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      390,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "second",
+    "viewport": [
+      390,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "equivalent",
+    "viewport": [
+      390,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      768,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "second",
+    "viewport": [
+      768,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "equivalent",
+    "viewport": [
+      768,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      1440,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "second",
+    "viewport": [
+      1440,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "equivalent",
+    "viewport": [
+      1440,
+      900
+    ],
+    "javascript": false,
+    "navigation": "visible",
+    "overflow": false
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      390,
+      900
+    ],
+    "motion": "initial/dynamic-reduce/focus/anchor-reload",
+    "initialAnimations": 8
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      768,
+      900
+    ],
+    "motion": "initial/dynamic-reduce/focus/anchor-reload",
+    "initialAnimations": 9
+  },
+  {
+    "profile": "default",
+    "viewport": [
+      1440,
+      900
+    ],
+    "motion": "initial/dynamic-reduce/focus/anchor-reload",
+    "initialAnimations": 0
+  }
+]

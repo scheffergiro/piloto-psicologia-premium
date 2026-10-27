@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+{{PREVIEW_NOTE}}
+<header class="site-header">
+<div class="wrap nav-inner">
+<a class="brand" href="#inicio" aria-label="{{BRAND}}, início"><span class="brand-name">{{BRAND}}</span></a>
+<button class="menu-toggle" type="button" aria-expanded="false" aria-controls="navigation" hidden><span class="menu-label">Menu</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+<nav id="navigation" aria-label="Navegação principal">{{NAV}}{{HEADER_CTA}}</nav>
+</div>
+</header>
+<main id="conteudo" tabindex="-1">
+<section class="hero{{HERO_CLASS}}" id="inicio" aria-labelledby="hero-title">
+<div class="hero-identity">
+<p class="eyebrow">{{EYEBROW}}</p>
+<h1 id="hero-title">{{NAME}}</h1>
+<p class="hero-profession">{{PROFESSION}}</p>
+<p class="credential">{{STATUS}}</p>
+</div>
+<div class="hero-dialogue"><div class="hero-statement"><p>{{HEADING}}</p><p class="hero-description">{{INTRODUCTION}}</p></div>
+{{HERO_CTA}}
+<p class="hero-microcopy">{{HERO_MICROCOPY}}</p>
+</div>
+<div class="hero-media"><figure class="portrait">{{PHOTO}}</figure></div>
+</section>
+{{SECTIONS}}
+</main>
+<footer class="site-footer"><div class="wrap footer-grid"><div><a class="brand-name" href="#inicio">{{BRAND}}.</a><p>{{FOOTER_TEXT}}</p></div><div>{{FOOTER_NAV}}</div><div>{{FAQ_NAV}}<a href="#contato">Contato</a><a href="#inicio">Voltar ao início ↑</a></div></div><div class="wrap footer-bottom"><p>{{FULL_IDENTITY}}</p><p>{{FOOTER_STATUS}}</p></div></footer>
+{{FLOAT}}
+<script src="navigation.js"></script>
+
+<script src="motion.js"></script>
+</body>
+</html>

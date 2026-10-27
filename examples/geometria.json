@@ -1,0 +1,190 @@
+{
+  "VERSAO": 2,
+  "NOME": "Clara Beatriz Ramos",
+  "PROFISSAO": "Psicóloga",
+  "CRP": "CRP a confirmar",
+  "MODO": "demo",
+  "URL_SITE": "",
+  "SEO_TITULO": "Clara Ramos — perfil fictício",
+  "SEO_DESCRICAO": "Exemplo sintético de apresentação profissional. Conteúdos demonstrativos sujeitos à validação.",
+  "IMAGEM_SOCIAL": "",
+  "IMAGEM_SOCIAL_ALT": "",
+  "TOKENS": {},
+  "HOME": {
+    "brand": "Clara Ramos",
+    "name_lines": [
+      "Clara",
+      "Beatriz",
+      "Ramos"
+    ],
+    "initials": "CR",
+    "eyebrow": "UM ESPAÇO PARA ESCUTA E CUIDADO",
+    "modality": "Modalidade a confirmar",
+    "photo": {
+      "file": "assets/reserva.png",
+      "alt": "Reserva geométrica de retrato; não representa uma pessoa",
+      "width": 682,
+      "height": 863
+    },
+    "whatsapp": {
+      "number": "",
+      "message": ""
+    },
+    "cta": "Agendar uma conversa",
+    "cta_url": "",
+    "fallback_cta": "Consultar canais de contato",
+    "title": "Um espaço para reconhecer sua própria história.",
+    "subtitle": "Cada trajetória merece atenção e uma escuta cuidadosa. Conheça esta apresentação demonstrativa e os caminhos de um primeiro encontro.",
+    "microcopy": "Consulte disponibilidade e horários.",
+    "highlights": [
+      "Modalidade a confirmar",
+      "Público a confirmar",
+      "Uma escuta cuidadosa"
+    ],
+    "sections": [
+      {
+        "id": "sobre",
+        "nav": "Sobre mim",
+        "eyebrow": "APRESENTAÇÃO",
+        "title": "Cada história merece ser escutada.",
+        "paragraphs": [
+          "Esta é Clara Beatriz Ramos, uma personagem inteiramente fictícia criada para demonstrar a composição deste site. Sua apresentação deve ser substituída por informações confirmadas da profissional.",
+          "O texto pode apresentar a trajetória, a formação e a maneira de trabalhar, respeitando a singularidade de cada pessoa. Nenhuma credencial, serviço ou experiência deste exemplo representa uma profissional real."
+        ],
+        "items": [],
+        "note": "Um encontro com espaço para falar, refletir e construir perguntas.",
+        "cta": "Conhecer os canais de contato"
+      },
+      {
+        "id": "como-posso-ajudar",
+        "nav": "",
+        "eyebrow": "POSSIBILIDADES DE ACOMPANHAMENTO",
+        "title": "O que pode encontrar espaço na conversa.",
+        "paragraphs": [
+          "Os temas abaixo ilustram a organização do conteúdo. Devem ser adaptados ao público, à abordagem e ao escopo de atuação confirmados para cada profissional."
+        ],
+        "items": [
+          {
+            "title": "Um espaço para sua história.",
+            "text": "Texto demonstrativo para apresentar uma possibilidade de acompanhamento, sem antecipar resultados ou formular promessas."
+          },
+          {
+            "title": "Momentos de mudança.",
+            "text": "Um exemplo de conteúdo que poderá ser validado e personalizado antes de publicar."
+          },
+          {
+            "title": "Relações e cotidiano.",
+            "text": "Apresente apenas temas e públicos que façam parte da atuação confirmada."
+          }
+        ],
+        "note": "",
+        "cta": ""
+      },
+      {
+        "id": "abordagem",
+        "nav": "Abordagem",
+        "eyebrow": "FORMA DE TRABALHO",
+        "title": "Presença e cuidado em cada encontro.",
+        "paragraphs": [
+          "A abordagem terapêutica deve ser apresentada conforme a formação e a prática confirmadas da profissional. Este trecho é um exemplo de extensão de texto e não uma afirmação clínica.",
+          "A configuração permite explicar o processo em linguagem simples, com atenção aos limites do atendimento e às dúvidas de quem procura informações pela primeira vez."
+        ],
+        "items": [],
+        "note": "A forma de trabalho será descrita após confirmação profissional.",
+        "cta": "Conversar sobre o acompanhamento"
+      },
+      {
+        "id": "online",
+        "nav": "Atendimento",
+        "eyebrow": "COMO FUNCIONA",
+        "title": "Um tempo reservado para você.",
+        "paragraphs": [
+          "As condições de atendimento, a modalidade e os horários devem ser confirmados diretamente com a profissional. Os exemplos abaixo demonstram a estrutura editorial da seção."
+        ],
+        "items": [
+          {
+            "title": "Primeiro contato",
+            "text": "Um canal confirmado permite esclarecer dúvidas iniciais sobre o acompanhamento."
+          },
+          {
+            "title": "Um encontro reservado",
+            "text": "As orientações sobre privacidade e preparação serão personalizadas conforme a modalidade."
+          },
+          {
+            "title": "Continuidade e diálogo",
+            "text": "Frequência, disponibilidade e condições são combinadas com a profissional."
+          }
+        ],
+        "note": "",
+        "cta": ""
+      },
+      {
+        "id": "exterior",
+        "nav": "Contextos",
+        "eyebrow": "SEÇÃO OPCIONAL",
+        "title": "Atendimento em diferentes contextos.",
+        "paragraphs": [
+          "Este conteúdo é inteiramente sintético e serve para comparar o ritmo editorial da composição aprovada. Ative esta seção apenas com informações confirmadas para a profissional.",
+          "Os títulos, textos e condições podem ser definidos pela configuração sem modificar os componentes visuais do site."
+        ],
+        "items": [],
+        "note": "",
+        "cta": "Consultar canais de contato"
+      },
+      {
+        "id": "recurso",
+        "nav": "",
+        "eyebrow": "SEÇÃO OPCIONAL",
+        "title": "Um recurso para conhecer e refletir.",
+        "paragraphs": [
+          "Este conteúdo é inteiramente sintético e serve para comparar o ritmo editorial da composição aprovada. Ative esta seção apenas com informações confirmadas para a profissional.",
+          "Os títulos, textos e condições podem ser definidos pela configuração sem modificar os componentes visuais do site."
+        ],
+        "items": [],
+        "note": "",
+        "cta": ""
+      }
+    ],
+    "bridge": {
+      "enabled": true,
+      "eyebrow": "UM PRIMEIRO CONTATO",
+      "title": "Uma conversa pode abrir\nespaço para suas perguntas.",
+      "cta": "Consultar canais de contato"
+    },
+    "faq_heading": {
+      "eyebrow": "Perguntas frequentes",
+      "title": "Antes do primeiro encontro.",
+      "intro": "Algumas informações para começar com mais clareza."
+    },
+    "faq": [
+      {
+        "question": "Como posso entrar em contato?",
+        "answer": "Os canais serão configurados com informações confirmadas. Este perfil é fictício e não recebe solicitações de atendimento."
+      },
+      {
+        "question": "Quais modalidades estão disponíveis?",
+        "answer": "A modalidade, o público e as condições deverão ser confirmados pela profissional antes da publicação."
+      },
+      {
+        "question": "Como conhecer a forma de trabalho?",
+        "answer": "A apresentação da abordagem e do processo deve refletir informações revisadas pela profissional."
+      },
+      {
+        "question": "Como consultar os horários?",
+        "answer": "Consulte a disponibilidade pelo canal confirmado da profissional. Não há agendamentos nesta demonstração."
+      }
+    ],
+    "contacts": [],
+    "contact": {
+      "eyebrow": "Vamos conversar?",
+      "title": "O primeiro contato começa com suas perguntas.",
+      "text": "Os canais de atendimento serão apresentados aqui quando estiverem confirmados. Esta página demonstra a composição do template e não representa uma profissional real.",
+      "cta": "Conversar pelo WhatsApp",
+      "microcopy": "Perfil fictício · Nenhum canal de atendimento configurado"
+    },
+    "footer_text": "Apresentação profissional demonstrativa.\nModalidade e público a confirmar.",
+    "footer_status": "Perfil fictício · Informações para demonstração",
+    "preview_note": "Prévia demonstrativa · Perfil fictício",
+    "floating_label": "Fale comigo agora"
+  }
+}

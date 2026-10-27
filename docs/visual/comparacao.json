@@ -1,0 +1,428 @@
+[
+  {
+    "viewport": [
+      320,
+      740
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 973.953125,
+    "portrait": [
+      246.390625,
+      311.78125
+    ],
+    "cta_bottom": 1016.453125,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": -150.0
+      }
+    ]
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 1021.671875,
+    "portrait": [
+      308,
+      389.734375
+    ],
+    "cta_bottom": 1064.171875,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": -150.0
+      }
+    ]
+  },
+  {
+    "viewport": [
+      768,
+      900
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 715.390625,
+    "portrait": [
+      338.9375,
+      428.875
+    ],
+    "cta_bottom": 758.140625,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": -137.765625
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 707.03125,
+    "portrait": [
+      470.953125,
+      595.9375
+    ],
+    "cta_bottom": 755.78125,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": -26.046875
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 750.53125,
+    "portrait": [
+      470.953125,
+      595.9375
+    ],
+    "cta_bottom": 799.28125,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": 0.0
+      }
+    ]
+  },
+  {
+    "viewport": [
+      1280,
+      720
+    ],
+    "max_geometry_delta": 0,
+    "computed_styles_match": true,
+    "hero_height": 687.390625,
+    "portrait": [
+      432.984375,
+      547.890625
+    ],
+    "cta_bottom": 736.140625,
+    "section_height_deltas": [
+      {
+        "reference_id": "inicio",
+        "generated_id": "inicio",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0
+      },
+      {
+        "reference_id": "sobre",
+        "generated_id": "sobre",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "como-posso-ajudar",
+        "generated_id": "como-posso-ajudar",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "abordagem",
+        "generated_id": "abordagem",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "online",
+        "generated_id": "online",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "",
+        "generated_id": "",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "exterior",
+        "generated_id": "exterior",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "aflorar",
+        "generated_id": "recurso",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "duvidas",
+        "generated_id": "duvidas",
+        "delta": 0.0
+      },
+      {
+        "reference_id": "contato",
+        "generated_id": "contato",
+        "delta": -39.640625
+      }
+    ]
+  }
+]

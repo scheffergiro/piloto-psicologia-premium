@@ -1,0 +1,79 @@
+{
+  "VERSAO": 2,
+  "NOME": "Alexandre Maximiliano de Albuquerque Montenegro",
+  "PROFISSAO": "Psicólogo",
+  "CRP": "CRP a confirmar",
+  "MODO": "demo",
+  "URL_SITE": "",
+  "SEO_TITULO": "Alexandre Montenegro — perfil fictício",
+  "SEO_DESCRICAO": "Exemplo sintético de apresentação profissional. Conteúdos demonstrativos sujeitos à validação.",
+  "IMAGEM_SOCIAL": "",
+  "IMAGEM_SOCIAL_ALT": "",
+  "TOKENS": {},
+  "HOME": {
+    "brand": "Alexandre Montenegro",
+    "name_lines": [
+      "Alexandre Maximiliano",
+      "de Albuquerque",
+      "Montenegro"
+    ],
+    "initials": "AM",
+    "eyebrow": "UM ESPAÇO PARA ESCUTA E CUIDADO",
+    "modality": "Modalidade a confirmar",
+    "photo": {
+      "file": "",
+      "alt": "",
+      "width": 682,
+      "height": 863
+    },
+    "whatsapp": {
+      "number": "",
+      "message": ""
+    },
+    "cta": "Agendar uma conversa",
+    "cta_url": "",
+    "fallback_cta": "Consultar canais de contato",
+    "title": "Um espaço para olhar com cuidado para sua trajetória.",
+    "subtitle": "Segundo perfil fictício para verificar nomes extensos, seções opcionais e isolamento da configuração.",
+    "microcopy": "Consulte disponibilidade e horários.",
+    "highlights": [],
+    "sections": [
+      {
+        "id": "sobre",
+        "nav": "Apresentação",
+        "eyebrow": "APRESENTAÇÃO",
+        "title": "Um percurso singular.",
+        "paragraphs": [
+          "Alexandre é um personagem fictício para verificar a reutilização desta estrutura. Não representa uma pessoa ou um serviço real."
+        ],
+        "items": [],
+        "note": "",
+        "cta": ""
+      }
+    ],
+    "bridge": {
+      "enabled": false,
+      "eyebrow": "UM PRIMEIRO CONTATO",
+      "title": "Uma conversa pode abrir\nespaço para suas perguntas.",
+      "cta": "Consultar canais de contato"
+    },
+    "faq_heading": {
+      "eyebrow": "Perguntas frequentes",
+      "title": "Antes do primeiro encontro.",
+      "intro": "Algumas informações para começar com mais clareza."
+    },
+    "faq": [],
+    "contacts": [],
+    "contact": {
+      "eyebrow": "Vamos conversar?",
+      "title": "O primeiro contato começa com suas perguntas.",
+      "text": "Os canais de atendimento serão apresentados aqui quando estiverem confirmados. Esta página demonstra a composição do template e não representa uma profissional real.",
+      "cta": "Conversar pelo WhatsApp",
+      "microcopy": "Perfil fictício · Nenhum canal de atendimento configurado"
+    },
+    "footer_text": "Segundo perfil inteiramente fictício.",
+    "footer_status": "Perfil fictício · Informações para demonstração",
+    "preview_note": "Prévia demonstrativa · Perfil fictício",
+    "floating_label": "Fale comigo agora"
+  }
+}

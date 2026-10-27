@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+  <title>Protótipo — Atlas de Encontros</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&amp;display=swap">
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    body { background-color: var(--hero); background-image: linear-gradient(to right, transparent calc(100% - 1px), rgba(82,94,75,.09) 1px); background-size: calc((100vw - max(28px, calc((100vw - 1240px)/2))) / 6) 100%; }
+    .site-header { background: rgba(248,245,240,.96); }
+    .hero, .about { width: min(100% - 64px,1240px); margin-inline: auto; }
+    .hero { padding: 48px 0 0; }
+    .index-line { display: flex; justify-content: space-between; gap: 24px; padding: 12px 0; border-top: 1px solid var(--olive-dark); border-bottom: 1px solid var(--line); }
+    .coordinates { color: var(--muted); font-size: .68rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
+    .hero-title { margin: 46px 0 30px; font-size: clamp(5.5rem,10vw,10.3rem); font-weight: 400; letter-spacing: -.075em; line-height: .78; text-transform: uppercase; }
+    .hero-title span { display: block; }
+    .hero-title .line-two { margin-left: 16.66%; color: var(--olive); font-style: italic; text-transform: none; }
+    .hero-title .line-three { margin-left: 8.33%; }
+    .hero-lower { display: grid; grid-template-columns: repeat(12,minmax(0,1fr)); gap: 22px; align-items: end; padding: 26px 0 54px; }
+    .hero-copy { grid-column: 1 / 5; padding-top: 26px; border-top: 1px solid var(--line); }
+    .lead { color: var(--muted); font-size: 1.05rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+    .button { border-radius: 0; }
+    .portrait-card { grid-column: 8 / 13; display: grid; grid-template-columns: 1fr 42px; border: 1px solid var(--olive-dark); }
+    .portrait-placeholder { min-height: 390px; background: linear-gradient(145deg,#d1c5b3,#acb3a0 62%,#919e8d); }
+    .portrait-card aside { padding: 14px 10px; border-left: 1px solid rgba(82,94,75,.45); color: var(--olive-dark); font-size: .62rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; writing-mode: vertical-rl; }
+    .context { display: grid; grid-template-columns: repeat(12,minmax(0,1fr)); border-top: 1px solid var(--olive-dark); border-bottom: 1px solid var(--olive-dark); }
+    .context-item { grid-column: span 4; min-height: 112px; display: grid; grid-template-columns: 42px 1fr; gap: 14px; align-content: center; padding: 18px 20px 18px 0; color: var(--muted); font-size: .82rem; }
+    .context-item + .context-item { border-left: 1px solid var(--line); padding-left: 20px; }
+    .context-item b { color: var(--olive); font-family: "Playfair Display",serif; font-size: 1.35rem; font-weight: 400; }
+    .context-item span { display: block; }
+    .context-item small { display: block; margin-bottom: 4px; color: var(--olive-dark); font-size: .65rem; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; }
+    .about { padding: 112px 0 130px; }
+    .about-index { display: grid; grid-template-columns: 2fr 10fr; gap: 22px; padding-bottom: 20px; border-bottom: 1px solid var(--olive-dark); }
+    .about-index h2 { margin: 0; font-size: clamp(3.5rem,6.5vw,7rem); font-weight: 400; letter-spacing: -.06em; line-height: .9; text-transform: uppercase; }
+    .about-content { display: grid; grid-template-columns: repeat(12,minmax(0,1fr)); gap: 22px; padding-top: 52px; }
+    .quote { grid-column: 1 / 7; color: var(--olive-dark); font-size: clamp(2rem,3.2vw,3.5rem); line-height: 1.25; }
+    .bio { grid-column: 8 / 12; color: var(--muted); font-size: 1.02rem; }
+    .bio p + p { margin-top: 18px; }
+    .professional-info { grid-column: 3 / 13; margin-top: 62px; border-top: 1px solid var(--line); }
+    .professional-item { display: grid; grid-template-columns: 70px 220px 1fr; gap: 20px; padding: 20px 0; border-bottom: 1px solid var(--line); font-size: .9rem; }
+    .professional-item .number { color: var(--olive); font-family: "Playfair Display",serif; font-size: 1.25rem; }
+    @media (max-width: 700px) {
+      body { background-size: 25vw 100%; }
+      .hero, .about { width: calc(100% - 28px); }
+      .hero { padding-top: 28px; }
+      .coordinates:last-child { text-align: right; }
+      .hero-title { margin: 34px 0 26px; font-size: clamp(4.05rem,20vw,5rem); line-height: .82; }
+      .hero-title .line-two, .hero-title .line-three { margin-left: 0; }
+      .hero-lower { grid-template-columns: 1fr; gap: 38px; padding-bottom: 42px; }
+      .hero-copy, .portrait-card { grid-column: 1; }
+      .actions { flex-direction: column; }
+      .portrait-card { grid-template-columns: 1fr 34px; }
+      .portrait-placeholder { min-height: 390px; }
+      .context { grid-template-columns: 1fr; }
+      .context-item { grid-column: 1; min-height: 86px; }
+      .context-item + .context-item { border-top: 1px solid var(--line); border-left: 0; padding-left: 0; }
+      .about { padding: 76px 0 90px; }
+      .about-index { grid-template-columns: 1fr; }
+      .about-index h2 { font-size: clamp(3.4rem,17vw,4.4rem); }
+      .about-content { grid-template-columns: 1fr; gap: 38px; padding-top: 40px; }
+      .quote, .bio, .professional-info { grid-column: 1; }
+      .professional-info { margin-top: 18px; }
+      .professional-item { grid-template-columns: 42px 1fr; }
+      .professional-item div { grid-column: 2; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo principal</a>
+  <div class="notice">DEMONSTRAÇÃO COMERCIAL NÃO OFICIAL · ESTUDO VISUAL ATLAS DE ENCONTROS</div>
+  <header class="site-header"><div class="nav"><a class="brand" href="#inicio"><span class="fi-spacing-fix">Nome da Profissional</span><small>Psicóloga · Localidade a confirmar · CRP: XXX</small></a><span class="header-note">Estudo 03 / 03</span></div></header>
+  <main id="conteudo">
+    <section class="hero" id="inicio"><div class="index-line"><span class="coordinates">01 / Início</span><span class="coordinates">Psicoterapia · Localidade a confirmar</span></div><h1 class="hero-title"><span>Um espaço para</span><span class="line-two">ser, sentir</span><span class="line-three">e se descobrir.</span></h1><div class="hero-lower"><div class="hero-copy"><p class="lead">Apresentação do atendimento a personalizar com informações confirmadas.</p><div class="actions"><a class="button" href="#sobre">Entre em contato ↗</a><a class="button button-secondary" href="#sobre">Sobre Profissional ↓</a></div></div><div class="portrait-card"><div class="portrait-placeholder" role="img" aria-label="Área reservada para fotografia profissional de Profissional"><div class="portrait-content"><span class="portrait-initial">NP</span><span class="portrait-label">Espaço reservado para uma fotografia autorizada</span></div></div><aside>Imagem autorizada / pendente</aside></div></div><div class="context" aria-label="Informações do atendimento"><div class="context-item"><b>01</b><span><small>Modalidade</small>Modalidades a confirmar</span></div><div class="context-item"><b>02</b><span><small>Público</small>Público a confirmar</span></div><div class="context-item"><b>03</b><span><small>Abordagem</small>Abordagem a confirmar</span></div></div></section>
+    <section class="about" id="sobre"><div class="about-index"><span class="eyebrow">02 / Perfil</span><h2>Conheça <em><span class="fi-spacing-fix">a profissional</span>.</em></h2></div><div class="about-content"><p class="quote">A psicoterapia é um convite para olhar para si com mais presença e curiosidade.</p><div class="bio"><p>Apresentação profissional a preencher com informações confirmadas.</p><p>Trajetória e forma de trabalho a preencher após validação.</p></div><div class="professional-info"><div class="professional-item"><span class="number">01</span><strong>Formação em Psicologia</strong><div>Formação a confirmar.</div></div><div class="professional-item"><span class="number">02</span><strong>Trajetória profissional</strong><div>Trajetória profissional a confirmar.</div></div><div class="professional-item"><span class="number">03</span><strong>Abordagem terapêutica</strong><div>Resumo da abordagem a confirmar com a profissional.</div></div></div></div></section>
+  </main>
+</body>
+</html>
