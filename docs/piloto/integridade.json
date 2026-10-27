@@ -1,0 +1,39 @@
+{
+  "template_commit": "53c4016cb0a8071f5b4db5bc91ba833d6b98eeb4",
+  "pilot_base": "2e604fe1289d2e2b1f95f118e3919a2d86fd3674",
+  "tree": "53a1aa6c909fd9c21f4c6707f3963268087ab0b8",
+  "origin_files_identical": 135,
+  "unchanged_original_files": 133,
+  "public_sha256": {
+    ".generated-files.json": "5515d410a822036ad52c28f587f42e1bd0885a52ed55ac40331dbd9925f635d1",
+    "_headers": "81b7e47e630266ed43d96495e2bf8f8938ff5bf9bc30098b3fa1d388eb908fb3",
+    "index.html": "324c2101810ba9635a9760c03dd61baf44229b609d4eee91604a23bd3191cc64",
+    "motion.js": "dd774c8ee03fcab9027a874197bfb8169fdcf25adbd4436801c80321647b9124",
+    "navigation.js": "140334152fd4299ce53f797d7cfd2cff4bc2d9e17a1dbe3bc8beab7d511b327a",
+    "robots.txt": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
+    "styles.css": "6dee88f50d1dff61f7a7ff37263a06a0e7aebdb66744e9a9db6d55a9c0125db1",
+    "assets/fonts/DMSans-OFL.txt": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "assets/fonts/DMSans.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+    "assets/fonts/PlayfairDisplay-OFL.txt": "566be814f8e96e93dfa16101331557eb6b5467e9e03f627c0910fe93ca12300e",
+    "assets/fonts/PlayfairDisplay.ttf": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+  },
+  "regenerated_identical": true,
+  "leak_terms": [
+    "Ilana",
+    "Letícia",
+    "Honorato",
+    "Aflorar",
+    "Clara",
+    "Beatriz",
+    "Ramos",
+    "Alexandre",
+    "5562994579466",
+    "psi.ilananaves"
+  ],
+  "leaks": [],
+  "tokens": {},
+  "mode": "demo",
+  "no_photo": true,
+  "no_contact": true,
+  "no_metrics_or_testimonials": true
+}

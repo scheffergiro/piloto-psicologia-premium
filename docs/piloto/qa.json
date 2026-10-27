@@ -1,0 +1,827 @@
+[
+  {
+    "viewport": [
+      320,
+      740
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 20,
+        "y": 102.5,
+        "width": 280,
+        "height": 979.84375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 36.796875,
+        "y": 158.09375,
+        "width": 246.390625,
+        "height": 311.78125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 20,
+        "y": 489.875,
+        "width": 280,
+        "height": 162,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "50px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 20,
+        "y": 950.34375,
+        "width": 280,
+        "height": 54,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 20,
+        "y": 102.5,
+        "width": 280,
+        "height": 973.953125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 36.796875,
+        "y": 158.09375,
+        "width": 246.390625,
+        "height": 311.78125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 20,
+        "y": 489.875,
+        "width": 280,
+        "height": 162,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "50px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 20,
+        "y": 962.453125,
+        "width": 280,
+        "height": 54,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "14px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 20,
+        "y": 102.5,
+        "width": 350,
+        "height": 1021.671875,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 41,
+        "y": 158.09375,
+        "width": 308,
+        "height": 389.734375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 20,
+        "y": 567.828125,
+        "width": 350,
+        "height": 162,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "50px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 20,
+        "y": 1009.671875,
+        "width": 350,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 20,
+        "y": 102.5,
+        "width": 350,
+        "height": 1021.671875,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 41,
+        "y": 158.09375,
+        "width": 308,
+        "height": 389.734375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 20,
+        "y": 567.828125,
+        "width": 350,
+        "height": 162,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "50px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 20,
+        "y": 1009.671875,
+        "width": 350,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      768,
+      900
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 32,
+        "y": 110.25,
+        "width": 704,
+        "height": 707,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 397.046875,
+        "y": 242.3125,
+        "width": 338.9375,
+        "height": 428.875,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 32,
+        "y": 163.84375,
+        "width": 322.8125,
+        "height": 186.5625,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "57.6px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 32,
+        "y": 695.25,
+        "width": 272.734375,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 32,
+        "y": 110.25,
+        "width": 704,
+        "height": 715.390625,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 397.046875,
+        "y": 246.5,
+        "width": 338.9375,
+        "height": 428.875,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 32,
+        "y": 163.84375,
+        "width": 322.8125,
+        "height": 186.5625,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "57.6px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 32,
+        "y": 703.640625,
+        "width": 290.265625,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      1280,
+      720
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 50,
+        "y": 116.25,
+        "width": 1180,
+        "height": 649.96875,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 797.015625,
+        "y": 160.28125,
+        "width": 432.984375,
+        "height": 547.890625,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 50,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 219.28125,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "67.68px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 50,
+        "y": 644.21875,
+        "width": 272.734375,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 50,
+        "y": 116.25,
+        "width": 1180,
+        "height": 687.390625,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 797.015625,
+        "y": 179,
+        "width": 432.984375,
+        "height": 547.890625,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 50,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 219.28125,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "67.68px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 50,
+        "y": 681.640625,
+        "width": 290.265625,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 93,
+        "y": 116.25,
+        "width": 1180,
+        "height": 667.078125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 802.046875,
+        "y": 144.8125,
+        "width": 470.953125,
+        "height": 595.9375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 93,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 233.859375,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "72.192px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 93,
+        "y": 661.328125,
+        "width": 272.734375,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 93,
+        "y": 116.25,
+        "width": 1180,
+        "height": 707.03125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 802.046875,
+        "y": 164.796875,
+        "width": 470.953125,
+        "height": 595.9375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 93,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 233.859375,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "72.192px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 93,
+        "y": 701.28125,
+        "width": 290.265625,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "checks": "layout/fontes/âncoras/CTA/FAQ/teclado/SEO/assets",
+    "measurements": {
+      "hero": {
+        "x": 130,
+        "y": 116.25,
+        "width": 1180,
+        "height": 708.9375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 839.046875,
+        "y": 165.75,
+        "width": 470.953125,
+        "height": 595.9375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 130,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 274.078125,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "84.6px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 130,
+        "y": 703.1875,
+        "width": 272.734375,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "baseline": {
+      "hero": {
+        "x": 130,
+        "y": 116.25,
+        "width": 1180,
+        "height": 750.53125,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(247, 244, 238)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "portrait": {
+        "x": 839.046875,
+        "y": 186.546875,
+        "width": 470.953125,
+        "height": 595.9375,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "17px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgb(222, 213, 194)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "10px"
+      },
+      "name": {
+        "x": 130,
+        "y": 169.84375,
+        "width": 529.5625,
+        "height": 274.078125,
+        "font": "\"Playfair Display\", Georgia, serif",
+        "size": "84.6px",
+        "color": "rgb(48, 59, 43)",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(48, 59, 43)",
+        "radius": "0px"
+      },
+      "cta": {
+        "x": 130,
+        "y": 744.78125,
+        "width": 290.265625,
+        "height": 54.5,
+        "font": "\"DM Sans\", Arial, sans-serif",
+        "size": "15px",
+        "color": "rgb(252, 250, 245)",
+        "background": "rgb(57, 75, 50)",
+        "border": "1px solid rgb(57, 75, 50)",
+        "radius": "7px"
+      },
+      "overflow": false,
+      "fonts": true,
+      "orphans": [],
+      "broken": [],
+      "external": [],
+      "h1": 1,
+      "robots": "noindex,nofollow",
+      "canonical": false,
+      "jsonld": false
+    },
+    "errors": [],
+    "http_errors": []
+  },
+  {
+    "viewport": [
+      320,
+      900
+    ],
+    "javascript": false,
+    "result": "navegação, FAQ e conteúdo disponíveis"
+  },
+  {
+    "viewport": [
+      390,
+      900
+    ],
+    "javascript": false,
+    "result": "navegação, FAQ e conteúdo disponíveis"
+  },
+  {
+    "viewport": [
+      768,
+      900
+    ],
+    "javascript": false,
+    "result": "navegação, FAQ e conteúdo disponíveis"
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "javascript": false,
+    "result": "navegação, FAQ e conteúdo disponíveis"
+  },
+  {
+    "viewport": [
+      390,
+      900
+    ],
+    "motion": "entrada/foco/reduce dinâmico/scroll único/reload/histórico",
+    "initial_animations": 8,
+    "scroll_animations": 3
+  },
+  {
+    "viewport": [
+      768,
+      900
+    ],
+    "motion": "entrada/foco/reduce dinâmico/scroll único/reload/histórico",
+    "initial_animations": 8,
+    "scroll_animations": 3
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "motion": "entrada/foco/reduce dinâmico/scroll único/reload/histórico",
+    "initial_animations": 8,
+    "scroll_animations": 3
+  },
+  {
+    "optional_apis": false,
+    "result": "conteúdo e CTA visíveis"
+  }
+]
