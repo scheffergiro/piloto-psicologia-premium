@@ -1,25 +1,25 @@
 {
   "VERSAO": 2,
-  "NOME": "Clara Beatriz Ramos",
+  "NOME": "Helena Duarte Reis",
   "PROFISSAO": "Psicóloga",
-  "CRP": "CRP a confirmar",
+  "CRP": "Personagem fictícia · sem registro profissional",
   "MODO": "demo",
   "URL_SITE": "",
-  "SEO_TITULO": "Clara Ramos — perfil fictício",
-  "SEO_DESCRICAO": "Exemplo sintético de apresentação profissional. Conteúdos demonstrativos sujeitos à validação.",
+  "SEO_TITULO": "Helena Reis — demonstração fictícia",
+  "SEO_DESCRICAO": "Demo independente do Template Premium de Psicologia 2.0. Helena Duarte Reis é uma personagem fictícia; não há atendimento ou agendamento.",
   "IMAGEM_SOCIAL": "",
   "IMAGEM_SOCIAL_ALT": "",
   "TOKENS": {},
   "HOME": {
-    "brand": "Clara Ramos",
+    "brand": "Helena Reis",
     "name_lines": [
-      "Clara",
-      "Beatriz",
-      "Ramos"
+      "Helena",
+      "Duarte",
+      "Reis"
     ],
-    "initials": "CR",
-    "eyebrow": "UM ESPAÇO PARA ESCUTA E CUIDADO",
-    "modality": "Modalidade a confirmar",
+    "initials": "HR",
+    "eyebrow": "UM ESPAÇO PARA ESCUTA E REFLEXÃO",
+    "modality": "Atendimento online · exemplo fictício",
     "photo": {
       "file": "",
       "alt": "",
@@ -30,51 +30,51 @@
       "number": "",
       "message": ""
     },
-    "cta": "Agendar uma conversa",
+    "cta": "Conhecer esta demonstração",
     "cta_url": "",
-    "fallback_cta": "Consultar canais de contato",
-    "title": "Um espaço para reconhecer sua própria história.",
-    "subtitle": "Cada trajetória merece atenção e uma escuta cuidadosa. Conheça esta apresentação demonstrativa e os caminhos de um primeiro encontro.",
-    "microcopy": "Consulte disponibilidade e horários.",
+    "fallback_cta": "Sobre esta demonstração",
+    "title": "Um tempo para escutar a sua história.",
+    "subtitle": "Entre mudanças, escolhas e relações, cada história tem seu próprio ritmo. Esta apresentação fictícia demonstra um espaço de escuta e reflexão.",
+    "microcopy": "Demonstração de layout · Não realiza atendimentos.",
     "highlights": [
-      "Modalidade a confirmar",
-      "Público a confirmar",
-      "Uma escuta cuidadosa"
+      "Online · exemplo fictício",
+      "Adultos · público ilustrativo",
+      "Escuta e reflexão"
     ],
     "sections": [
       {
         "id": "sobre",
-        "nav": "Sobre mim",
-        "eyebrow": "APRESENTAÇÃO",
-        "title": "Cada história merece ser escutada.",
+        "nav": "Apresentação",
+        "eyebrow": "APRESENTAÇÃO DEMONSTRATIVA",
+        "title": "Uma história contada com presença.",
         "paragraphs": [
-          "Esta é Clara Beatriz Ramos, uma personagem inteiramente fictícia criada para demonstrar a composição deste site. Sua apresentação deve ser substituída por informações confirmadas da profissional.",
-          "O texto pode apresentar a trajetória, a formação e a maneira de trabalhar, respeitando a singularidade de cada pessoa. Nenhuma credencial, serviço ou experiência deste exemplo representa uma profissional real."
+          "Helena Duarte Reis é uma personagem inteiramente fictícia, criada para testar a personalização deste template. Nesta narrativa demonstrativa, sua apresentação valoriza o tempo de escuta e as perguntas que surgem no cotidiano.",
+          "O perfil ilustra uma comunicação voltada a pessoas adultas em momentos de mudança. Não representa uma profissional real, nem informa formação, experiência ou habilitação para exercer a Psicologia."
         ],
         "items": [],
-        "note": "Um encontro com espaço para falar, refletir e construir perguntas.",
-        "cta": "Conhecer os canais de contato"
+        "note": "Uma narrativa de demonstração, sem credenciais ou promessas clínicas.",
+        "cta": "Entender o projeto piloto"
       },
       {
         "id": "como-posso-ajudar",
         "nav": "",
-        "eyebrow": "POSSIBILIDADES DE ACOMPANHAMENTO",
-        "title": "O que pode encontrar espaço na conversa.",
+        "eyebrow": "TEMAS ILUSTRATIVOS",
+        "title": "O cotidiano também merece espaço.",
         "paragraphs": [
-          "Os temas abaixo ilustram a organização do conteúdo. Devem ser adaptados ao público, à abordagem e ao escopo de atuação confirmados para cada profissional."
+          "Estes temas compõem uma narrativa fictícia para avaliar os blocos de conteúdo. Não constituem uma oferta de serviços ou uma indicação de tratamento."
         ],
         "items": [
           {
-            "title": "Um espaço para sua história.",
-            "text": "Texto demonstrativo para apresentar uma possibilidade de acompanhamento, sem antecipar resultados ou formular promessas."
+            "title": "Escolhas e mudanças.",
+            "text": "Um exemplo de conversa sobre novos caminhos, pausas e decisões presentes nas diferentes fases da vida."
           },
           {
-            "title": "Momentos de mudança.",
-            "text": "Um exemplo de conteúdo que poderá ser validado e personalizado antes de publicar."
+            "title": "Relações e convivência.",
+            "text": "Um recorte editorial sobre os encontros, os limites e as perguntas que atravessam as relações cotidianas."
           },
           {
-            "title": "Relações e cotidiano.",
-            "text": "Apresente apenas temas e públicos que façam parte da atuação confirmada."
+            "title": "Ritmos do cotidiano.",
+            "text": "Uma possibilidade de texto sobre a relação com o tempo e as demandas do dia a dia, sem promessa de resultados."
           }
         ],
         "note": "",
@@ -83,36 +83,36 @@
       {
         "id": "abordagem",
         "nav": "Abordagem",
-        "eyebrow": "FORMA DE TRABALHO",
-        "title": "Presença e cuidado em cada encontro.",
+        "eyebrow": "ABORDAGEM DEMONSTRATIVA",
+        "title": "Escutar, perguntar e construir sentidos.",
         "paragraphs": [
-          "A abordagem terapêutica deve ser apresentada conforme a formação e a prática confirmadas da profissional. Este trecho é um exemplo de extensão de texto e não uma afirmação clínica.",
-          "A configuração permite explicar o processo em linguagem simples, com atenção aos limites do atendimento e às dúvidas de quem procura informações pela primeira vez."
+          "“Escuta em contexto” é o nome fictício usado neste piloto para ilustrar a apresentação de uma abordagem. Não é uma modalidade terapêutica reconhecida, uma qualificação ou uma afirmação sobre prática profissional.",
+          "Na narrativa da demo, a conversa considera a história e o cotidiano de cada pessoa, sem oferecer respostas prontas. O texto serve para testar extensão, ritmo de leitura e hierarquia da seção."
         ],
         "items": [],
-        "note": "A forma de trabalho será descrita após confirmação profissional.",
-        "cta": "Conversar sobre o acompanhamento"
+        "note": "Abordagem criada apenas para fins de layout.",
+        "cta": "Conhecer os limites da demo"
       },
       {
         "id": "online",
-        "nav": "Atendimento",
-        "eyebrow": "COMO FUNCIONA",
-        "title": "Um tempo reservado para você.",
+        "nav": "Como funciona",
+        "eyebrow": "PERCURSO DEMONSTRATIVO",
+        "title": "Um encontro descrito em três momentos.",
         "paragraphs": [
-          "As condições de atendimento, a modalidade e os horários devem ser confirmados diretamente com a profissional. Os exemplos abaixo demonstram a estrutura editorial da seção."
+          "O formato online e o público adulto são hipóteses de conteúdo deste perfil fictício. As etapas abaixo demonstram a apresentação do processo; não há agenda, valores ou atendimento disponíveis."
         ],
         "items": [
           {
-            "title": "Primeiro contato",
-            "text": "Um canal confirmado permite esclarecer dúvidas iniciais sobre o acompanhamento."
+            "title": "Perguntas iniciais",
+            "text": "A narrativa começa com um espaço para esclarecer dúvidas sobre o percurso. Nenhuma mensagem é enviada por esta demo."
           },
           {
-            "title": "Um encontro reservado",
-            "text": "As orientações sobre privacidade e preparação serão personalizadas conforme a modalidade."
+            "title": "Tempo de conversa",
+            "text": "O encontro reservado aparece como exemplo editorial. Não existe sala de atendimento ou sessão vinculada ao piloto."
           },
           {
-            "title": "Continuidade e diálogo",
-            "text": "Frequência, disponibilidade e condições são combinadas com a profissional."
+            "title": "Diálogo sobre o percurso",
+            "text": "A continuidade é descrita apenas para testar a composição visual. Não há contratação ou frequência configuradas."
           }
         ],
         "note": "",
@@ -121,44 +121,44 @@
     ],
     "bridge": {
       "enabled": true,
-      "eyebrow": "UM PRIMEIRO CONTATO",
-      "title": "Uma conversa pode abrir\nespaço para suas perguntas.",
-      "cta": "Consultar canais de contato"
+      "eyebrow": "CONHEÇA O PROJETO",
+      "title": "Uma demonstração para olhar\ncada detalhe com calma.",
+      "cta": "Sobre esta demonstração"
     },
     "faq_heading": {
       "eyebrow": "Perguntas frequentes",
-      "title": "Antes do primeiro encontro.",
-      "intro": "Algumas informações para começar com mais clareza."
+      "title": "Para conhecer esta demonstração.",
+      "intro": "Respostas sobre o perfil fictício e os limites deste piloto."
     },
     "faq": [
       {
-        "question": "Como posso entrar em contato?",
-        "answer": "Os canais serão configurados com informações confirmadas. Este perfil é fictício e não recebe solicitações de atendimento."
+        "question": "Helena Duarte Reis é uma profissional real?",
+        "answer": "Não. É uma personagem inteiramente fictícia criada para validar a configuração v2 do Template Premium de Psicologia 2.0. Não há CRP, formação ou experiência profissional associados a ela."
       },
       {
-        "question": "Quais modalidades estão disponíveis?",
-        "answer": "A modalidade, o público e as condições deverão ser confirmados pela profissional antes da publicação."
+        "question": "Posso agendar um atendimento por esta página?",
+        "answer": "Não. Esta demo não realiza atendimentos, recebe mensagens ou oferece agendamentos. Os botões levam às informações sobre o projeto, sem abrir canais externos."
       },
       {
-        "question": "Como conhecer a forma de trabalho?",
-        "answer": "A apresentação da abordagem e do processo deve refletir informações revisadas pela profissional."
+        "question": "A abordagem apresentada é uma modalidade terapêutica?",
+        "answer": "Não. “Escuta em contexto” é uma expressão inventada apenas para demonstrar a seção de abordagem e sua hierarquia editorial. Não descreve uma técnica ou habilitação clínica."
       },
       {
-        "question": "Como consultar os horários?",
-        "answer": "Consulte a disponibilidade pelo canal confirmado da profissional. Não há agendamentos nesta demonstração."
+        "question": "Por que não há fotografia, avaliações ou contatos?",
+        "answer": "O piloto utiliza a reserva editorial de retrato do próprio template. Não foram usados dados, fotografias ou depoimentos de clientes anteriores, nem inventados números ou credenciais."
       }
     ],
     "contacts": [],
     "contact": {
-      "eyebrow": "Vamos conversar?",
-      "title": "O primeiro contato começa com suas perguntas.",
-      "text": "Os canais de atendimento serão apresentados aqui quando estiverem confirmados. Esta página demonstra a composição do template e não representa uma profissional real.",
-      "cta": "Conversar pelo WhatsApp",
+      "eyebrow": "Sobre esta demonstração",
+      "title": "Uma apresentação fictícia, com propósito claro.",
+      "text": "Este projeto piloto avalia a personalização do Template Premium de Psicologia 2.0 apenas por configuração. Helena Duarte Reis não é uma profissional real. Não há atendimento, agenda ou canal de contato nesta página.",
+      "cta": "Informações da demonstração",
       "microcopy": "Perfil fictício · Nenhum canal de atendimento configurado"
     },
-    "footer_text": "Apresentação profissional demonstrativa.\nModalidade e público a confirmar.",
-    "footer_status": "Perfil fictício · Informações para demonstração",
-    "preview_note": "Prévia demonstrativa · Perfil fictício",
-    "floating_label": "Fale comigo agora"
+    "footer_text": "Helena Duarte Reis · Personagem fictícia.\nProjeto piloto de apresentação profissional.",
+    "footer_status": "Perfil fictício · Sem atendimento real",
+    "preview_note": "Demo · Helena Reis é uma personagem fictícia",
+    "floating_label": "Sobre esta demonstração"
   }
 }
